@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">WellNest</string>
+    
+    <!-- Navigation Labels -->
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_compare">Compare</string>
+    <string name="title_membership">Membership</string>
+    <string name="title_profile">Profile</string>
+    
+    <!-- Login and Registration -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="welcome">Welcome to WellNest!</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="invalid_password">Password must be at least 6 characters</string>
+    <string name="login_failed">Login failed</string>
+    <string name="registration_failed">Registration failed</string>
+    <string name="registration_success">Registration successful</string>
+    
+    <!-- Home Screen -->
+    <string name="search_hint">Search for a location</string>
+    <string name="air_quality_label">Air Quality</string>
+    <string name="noise_level_label">Noise Level</string>
+    <string name="health_risk_label">Health Risk</string>
+    
+    <!-- Compare Screen -->
+    <string name="compare_locations">Compare Locations</string>
+    <string name="add_location">Add Location</string>
+    <string name="remove_location">Remove</string>
+    
+    <!-- Profile Screen -->
+    <string name="profile_title">My Profile</string>
+    <string name="saved_locations">Saved Locations</string>
+    <string name="health_preferences">Health Preferences</string>
+    <string name="logout">Logout</string>
+    
+    <!-- Membership Screen -->
+    <string name="membership_title">Membership</string>
+    <string name="free_plan">Free Plan</string>
+    <string name="premium_plan">Premium Plan</string>
+    <string name="upgrade">Upgrade</string>
+</resources> 
