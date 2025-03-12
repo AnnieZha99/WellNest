@@ -17,8 +17,8 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         
-        // For Google Maps API key - replace with your actual key
-        resValue("string", "google_maps_key", "YOUR_API_KEY_HERE")
+        // For Google Maps API key - using a dummy key for development
+        resValue("string", "google_maps_key", "AIzaSyDummyKeyForDevelopmentPurposesOnly")
     }
 
     buildTypes {
