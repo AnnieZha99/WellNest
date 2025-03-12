@@ -33,13 +33,13 @@ Interactive maps and clear data visualizations drive better understanding.
 
 ## Project Goals
 
-### Goal 1 (Sept-Nov)
+### Goal 1 
 Seamlessly fetch and display introductory pollution metrics from external APIs on the map view.
 
-### Goal 2 (Jan-March)
+### Goal 2 
 Fully integrate specialized APIs and display comprehensive datasets, present within a clear, user-friendly Result View interface.
 
-### Goal 3 (March-May)
+### Goal 3 
 Expand the app's data sources to encompass a wider range of health, environmental, and economic metrics and enhance personalization.
 
 ## Target Audience
